@@ -33,3 +33,5 @@ Step 3
 
 Add this API key in the following file:
 lib/weather.dart
+
+Made by Gaurav Singh & Abhinav Awasthi
